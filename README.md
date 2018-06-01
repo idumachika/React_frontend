@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Simple React Seed Project
 ==
 
@@ -9,3 +10,6 @@ cd [some new project name]
 npm i
 npm start
 ```
+=======
+# React_frontend
+>>>>>>> 2f558fa251d4d434ea16bcb6028192f137843390
