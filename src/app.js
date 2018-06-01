@@ -7,6 +7,9 @@ import HomePage from './components/home/HomePage';
 import AboutPage from './components/about/AboutPage';
 import ContactPage from './components/contact/ContactPage';
 import '../scss/site.scss';
+//import foo from './foo';
+
+
 
 render(
   <Router history={browserHistory}>
@@ -17,4 +20,7 @@ render(
     </Route>
   </Router>,
   document.getElementById('app')
+  
+
 )
+//document.getElementById('module-name').innerText = foo.name;

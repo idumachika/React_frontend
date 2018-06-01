@@ -27,7 +27,8 @@
     "fs-extra": "^0.30.0",
     "helmet": "^3.9.0",
     "path": "^0.12.7",
-    "progress-stream": "^2.0.0"
+    "progress-stream": "^2.0.0",
+    "webpack-dev-server": "^2.4.2"
   },
   "devDependencies": {
     "autoprefixer": "^6.7.2",
@@ -49,7 +50,7 @@
     "style-loader": "^0.13.1",
     "url-loader": "^0.5.8",
     "webpack": "^2.2.1",
-    "webpack-dev-server": "^2.4.2",
+    
     "webpack-hot-middleware": "^2.16.1"
   }
 }
